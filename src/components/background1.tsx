@@ -19,7 +19,7 @@ export default function Background1(){
             <a href="/about" className={` px-5 py-3 font-chill font-semibold rounded-md transition-all ease-in-out duration-500 ${mode == "dark"? "bg-white text-bgds hover:bg-forHover hover:text-white":"bg-bgds text-white hover:bg-red-300 hover"}`}>About Me</a>
             </div>
             <div className="px-3 py-5 font-chill font-bold">
-            <a href="https://drive.google.com/file/d/1crj3_cDBA_O1WLDL3U0Nyky4i6f_iQto/view?usp=sharing">My Resume</a>
+            <a href="https://drive.google.com/file/d/1G2F6tY_j4CxmtRFJI7H9o0fD9nUe32d5/view?usp=sharing">My Resume</a>
 
             </div>
         </div>
