@@ -12,11 +12,11 @@ export default function Project(){
         github: "https://github.com/AadiNir/unfoldhack",
         link: "https://unfoldhack-o6e1h6mil-aadinirs-projects.vercel.app/"
     },{
-        title: "MailSense",
-        description: "Developed an email classification application using OpenAI GPT-4",
-        tech: ["Next.js", "TypeScript", "Express.js"],
-        github: ": https://github.com/AadiNir/Email-classifier-project",
-        link: "/"
+        title: "Medimorph",
+        description: "Developed a medical imaging platform enabling DICOM file uploads and advanced image adjustments using TypeScript and Lunit InsightViewe",
+        tech: [ "React", "TypeScript", "TailwindCSS", "Docker","Lunit InsightViewer" ],
+        github: "https://github.com/AadiNir/Health-saas",
+        link: "https://health-saas.vercel.app/"
     },{
         title: "AgroChain",
         description: "Welcome To Retaurant-website, Your Go-To Platform for food order,dining booking and party boookings",

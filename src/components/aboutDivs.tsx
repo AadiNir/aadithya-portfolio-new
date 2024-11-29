@@ -21,12 +21,8 @@ export default function AboutDivs(){
         cgpa: "CGPA: 8.9"
     }, {
         degree: "Senior Secondary",
-        year: "2018 – 2020",
-        college: "Narayana Junior College"
-    }, {
-        degree: "Matriculation",
-        year: "2017 – 2018",
-        college: "Modern Public School"
+        year: "2008 – 2021",
+        college: "Chinmaya Vidyalaya"
     }];
     
     // const experience = [{

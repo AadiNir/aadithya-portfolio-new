@@ -19,7 +19,12 @@ export default function Navbar():any{
         window.location.reload();
     }
     const theme  = localStorage.getItem("modes");
+
     const [open,setOpen] = useState(false);
+
+
+
+    
     return <div className="fixed flex  items-center justify-around w-full select-none" >
     <div className={`flex flex-col lg:flex-row w-full justify-between ${theme == "dark"? "text-white border-forHover":"text-bgds border-red-300"} bg-transparent backdrop-blur-sm  px-10 py-10  h-auto lg:mx-56 my-7 border-[0.1px] rounded-lg `}>
         <h2 className=" font-sixtyFour text-xl">Aadithya Niranjan</h2>
